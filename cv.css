@@ -1,0 +1,23 @@
+body
+{
+  background-color:antiquewhite;
+}
+hr{
+border-style: none;
+border-top-style:dotted;
+border-color: grey;
+border-width: 4px;
+width:6%;
+
+}
+
+h1{ color:#000066;}
+
+h3{color:#000066;}
+.icons{
+    font-size: 30px;
+    list-style:none;
+    display: flex;
+  word-spacing: 35%;
+
+}
